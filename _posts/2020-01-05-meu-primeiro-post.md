@@ -11,8 +11,18 @@ optimized_image: >-
 category: blog
 tags:
  - Bem Vindo
-author: Julio Cesar
+author: julioepd
 paginate: true
 ---
 
-Esse é meu primeiro post no site.
+Olá, 
+Bem vindo ao meu site, primeiro vou me apresentar.
+Me chamo Julio Cesar e trabalho com TI a aproximadamente 10 anos, sempre tive vontade de criar meu site e dessa vontade nasceu esse site.
+
+Objetivo desse site é postar sobre qualquer assunto do meu interesse, desde TI até quadrinhos.
+
+Bem vindos.
+
+
+![minha imagem](https://media.giphy.com/media/jYAGkoghdmD9S/giphy.gif "Por hoje é só pessoal")
+
